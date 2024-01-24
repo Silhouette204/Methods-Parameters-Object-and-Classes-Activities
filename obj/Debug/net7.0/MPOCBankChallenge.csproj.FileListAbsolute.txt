@@ -1,0 +1,14 @@
+D:\C# Projects\MPOCBankChallenge\bin\Debug\net7.0\MPOCBankChallenge.exe
+D:\C# Projects\MPOCBankChallenge\bin\Debug\net7.0\MPOCBankChallenge.deps.json
+D:\C# Projects\MPOCBankChallenge\bin\Debug\net7.0\MPOCBankChallenge.runtimeconfig.json
+D:\C# Projects\MPOCBankChallenge\bin\Debug\net7.0\MPOCBankChallenge.dll
+D:\C# Projects\MPOCBankChallenge\bin\Debug\net7.0\MPOCBankChallenge.pdb
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.AssemblyInfoInputs.cache
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.AssemblyInfo.cs
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.csproj.CoreCompileInputs.cache
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.dll
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\refint\MPOCBankChallenge.dll
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.pdb
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\MPOCBankChallenge.genruntimeconfig.cache
+D:\C# Projects\MPOCBankChallenge\obj\Debug\net7.0\ref\MPOCBankChallenge.dll

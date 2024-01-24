@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6agA9k2oE9YG/rfu/X77xLNnyoYCQ39QkmpoXdBZx5GKJE9T96Z9Xp+rAGkLbONkaLM2U9aIC7gLihQSfBXEHA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\MPOCBankChallenge\\MPOCBankChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
